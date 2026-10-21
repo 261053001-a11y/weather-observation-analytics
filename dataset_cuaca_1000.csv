@@ -1,0 +1,1001 @@
+Tanggal,Kota,Suhu (°C),Kelembaban (%),Kondisi
+2024-04-02,Medan,32.6,66,Cerah
+2024-03-23,Bandung,23.3,74,Berawan
+2024-01-22,Surabaya,31.7,71,Hujan Ringan
+2024-03-04,Bandung,23.6,78,Berawan
+2024-02-29,Medan,30.1,51,Cerah
+2024-02-24,Surabaya,31.5,76,Hujan Ringan
+2024-03-13,Makassar,30.3,70,Cerah
+2024-03-11,Medan,33.8,76,Berawan
+2024-02-05,Jakarta,32.6,65,Cerah
+2024-01-04,Denpasar,31.9,81,Hujan Ringan
+2024-03-27,Denpasar,32.6,73,Hujan Ringan
+2024-03-22,Makassar,36.2,83,Hujan Ringan
+2024-02-10,Medan,29.8,67,Cerah
+2024-03-28,Jakarta,28.4,65,Cerah
+2024-03-21,Surabaya,33.4,79,Berawan
+2024-02-10,Bandung,21.3,81,Berawan
+2024-03-28,Denpasar,33.4,90,Hujan Ringan
+2024-03-05,Surabaya,32.2,72,Hujan Ringan
+2024-03-30,Makassar,29.9,64,Cerah
+2024-02-11,Bandung,20.0,79,Hujan Ringan
+2024-02-21,Jakarta,35.1,78,Berawan
+2024-01-15,Makassar,29.9,80,Berawan
+2024-03-26,Surabaya,32.1,81,Berawan
+2024-01-06,Makassar,28.5,70,Cerah
+2024-03-15,Denpasar,30.0,69,Cerah
+2024-04-06,Denpasar,33.2,59,Cerah
+2024-01-03,Makassar,31.5,70,Cerah
+2024-04-06,Makassar,30.8,64,Berawan
+2024-02-01,Denpasar,35.3,74,Berawan
+2024-02-27,Jakarta,27.7,72,Berawan
+2024-02-28,Jakarta,31.6,97,Hujan Ringan
+2024-04-05,Makassar,31.1,76,Berawan
+2024-03-30,Medan,33.8,80,Berawan
+2024-01-24,Denpasar,32.2,72,Berawan
+2024-03-13,Jakarta,29.5,67,Cerah
+2024-02-28,Medan,32.9,63,Berawan
+2024-04-05,Medan,32.4,48,Berawan
+2024-04-01,Surabaya,29.8,79,Berawan
+2024-04-08,Bandung,21.9,77,Hujan Ringan
+2024-02-29,Medan,31.6,78,Hujan Ringan
+2024-04-08,Jakarta,33.1,77,Hujan Ringan
+2024-02-02,Denpasar,30.1,75,Berawan
+2024-03-24,Denpasar,27.8,84,Hujan Ringan
+2024-04-02,Jakarta,29.5,62,Cerah
+2024-03-20,Surabaya,31.5,69,Cerah
+2024-01-17,Surabaya,32.3,54,Cerah
+2024-01-22,Denpasar,33.3,70,Cerah
+2024-01-21,Bandung,30.3,82,Berawan
+2024-03-01,Makassar,37.1,72,Hujan Ringan
+2024-02-13,Jakarta,31.1,80,Berawan
+2024-02-15,Makassar,30.6,80,Berawan
+2024-03-07,Jakarta,31.9,60,Berawan
+2024-03-07,Bandung,21.3,83,Berawan
+2024-01-23,Denpasar,31.6,61,Berawan
+2024-02-02,Jakarta,32.3,65,Cerah
+2024-01-26,Bandung,24.3,84,Hujan Ringan
+2024-01-07,Bandung,27.1,82,Berawan
+2024-01-16,Denpasar,31.6,68,Cerah
+2024-02-20,Denpasar,36.1,54,Cerah
+2024-02-27,Bandung,22.3,90,Hujan Ringan
+2024-01-08,Jakarta,30.1,79,Berawan
+2024-01-06,Medan,31.6,66,Cerah
+2024-01-16,Medan,31.5,77,Berawan
+2024-03-03,Jakarta,34.7,68,Cerah
+2024-03-02,Bandung,24.8,88,Hujan Ringan
+2024-01-01,Bandung,19.6,79,Berawan
+2024-01-01,Jakarta,35.7,83,Berawan
+2024-01-26,Medan,34.0,65,Cerah
+2024-04-01,Denpasar,32.4,80,Berawan
+2024-03-30,Bandung,15.4,73,Berawan
+2024-01-23,Denpasar,30.9,78,Berawan
+2024-02-27,Surabaya,37.9,73,Berawan
+2024-04-01,Bandung,25.1,83,Berawan
+2024-02-04,Bandung,22.0,98,Hujan Ringan
+2024-01-12,Makassar,32.4,71,Hujan Ringan
+2024-01-29,Medan,30.5,75,Berawan
+2024-03-14,Bandung,21.9,79,Berawan
+2024-03-15,Makassar,32.2,78,Hujan Ringan
+2024-02-05,Jakarta,32.6,65,Berawan
+2024-04-08,Jakarta,27.9,60,Cerah
+2024-04-05,Denpasar,31.1,83,Hujan Ringan
+2024-04-08,Jakarta,34.1,73,Berawan
+2024-01-19,Surabaya,32.1,71,Hujan Ringan
+2024-01-16,Surabaya,27.9,68,Cerah
+2024-03-25,Surabaya,33.0,79,Hujan Ringan
+2024-02-22,Makassar,30.1,72,Berawan
+2024-02-04,Makassar,30.9,81,Berawan
+2024-01-09,Medan,32.7,86,Hujan Ringan
+2024-01-13,Denpasar,30.5,59,Berawan
+2024-01-05,Bandung,19.5,82,Berawan
+2024-03-05,Makassar,30.9,77,Hujan Ringan
+2024-01-04,Makassar,34.2,63,Cerah
+2024-02-23,Medan,29.5,81,Berawan
+2024-03-07,Denpasar,30.4,58,Cerah
+2024-04-01,Medan,32.8,78,Hujan Ringan
+2024-03-17,Surabaya,30.4,58,Cerah
+2024-02-25,Jakarta,26.4,84,Hujan Ringan
+2024-02-01,Makassar,27.7,78,Berawan
+2024-03-15,Makassar,31.2,75,Berawan
+2024-01-18,Jakarta,30.6,67,Cerah
+2024-02-23,Jakarta,33.2,74,Berawan
+2024-03-14,Medan,35.9,64,Cerah
+2024-02-05,Medan,27.3,67,Cerah
+2024-02-10,Medan,30.9,56,Cerah
+2024-02-02,Jakarta,35.0,58,Cerah
+2024-02-15,Makassar,34.9,55,Berawan
+2024-02-25,Bandung,23.9,90,Hujan Ringan
+2024-03-05,Jakarta,32.2,72,Berawan
+2024-03-03,Bandung,26.4,78,Berawan
+2024-04-07,Jakarta,32.2,92,Hujan Lebat
+2024-02-22,Surabaya,34.7,79,Hujan Ringan
+2024-01-17,Surabaya,30.0,66,Cerah
+2024-03-17,Makassar,32.2,70,Cerah
+2024-04-01,Bandung,14.8,79,Hujan Ringan
+2024-01-12,Bandung,22.1,100,Hujan Ringan
+2024-03-25,Makassar,33.8,78,Hujan Ringan
+2024-04-07,Medan,33.6,55,Cerah
+2024-02-20,Surabaya,31.0,80,Berawan
+2024-01-30,Medan,33.5,76,Hujan Ringan
+2024-01-10,Medan,31.5,80,Berawan
+2024-02-03,Makassar,28.5,85,Berawan
+2024-03-15,Surabaya,32.2,63,Cerah
+2024-03-07,Jakarta,31.6,83,Hujan Ringan
+2024-02-20,Makassar,29.9,67,Cerah
+2024-01-05,Jakarta,28.6,71,Berawan
+2024-03-30,Denpasar,31.3,73,Hujan Ringan
+2024-03-26,Jakarta,33.2,66,Cerah
+2024-02-21,Makassar,30.4,60,Cerah
+2024-01-28,Bandung,21.9,64,Cerah
+2024-02-28,Denpasar,33.2,63,Berawan
+2024-01-18,Denpasar,34.5,48,Cerah
+2024-01-28,Jakarta,30.2,62,Cerah
+2024-01-13,Jakarta,34.9,81,Hujan Ringan
+2024-01-18,Makassar,31.7,64,Cerah
+2024-03-23,Jakarta,28.5,61,Berawan
+2024-02-28,Bandung,20.0,86,Hujan Ringan
+2024-03-10,Denpasar,30.2,68,Cerah
+2024-04-03,Denpasar,31.6,64,Cerah
+2024-01-24,Medan,31.0,63,Berawan
+2024-03-19,Medan,30.3,80,Berawan
+2024-03-02,Surabaya,31.7,80,Berawan
+2024-02-14,Surabaya,30.2,78,Berawan
+2024-03-24,Surabaya,28.2,73,Berawan
+2024-01-14,Bandung,25.1,68,Cerah
+2024-03-17,Medan,30.2,73,Berawan
+2024-01-05,Bandung,26.0,77,Berawan
+2024-03-13,Makassar,32.6,87,Hujan Ringan
+2024-04-03,Surabaya,30.4,88,Hujan Lebat
+2024-01-09,Surabaya,30.5,60,Berawan
+2024-02-29,Denpasar,31.3,74,Hujan Ringan
+2024-02-29,Denpasar,30.9,69,Berawan
+2024-03-18,Surabaya,27.1,76,Hujan Ringan
+2024-01-18,Jakarta,31.0,86,Hujan Ringan
+2024-02-07,Surabaya,26.8,88,Hujan Ringan
+2024-04-06,Jakarta,32.9,49,Cerah
+2024-02-08,Surabaya,28.5,84,Berawan
+2024-02-02,Makassar,33.4,73,Hujan Ringan
+2024-02-26,Denpasar,29.3,64,Cerah
+2024-03-08,Denpasar,34.5,77,Hujan Ringan
+2024-02-07,Jakarta,27.0,79,Berawan
+2024-02-25,Medan,37.8,74,Berawan
+2024-03-16,Medan,34.2,92,Hujan Lebat
+2024-03-09,Surabaya,29.1,66,Cerah
+2024-02-15,Bandung,25.4,83,Berawan
+2024-03-29,Bandung,25.7,74,Berawan
+2024-04-09,Medan,30.3,86,Hujan Ringan
+2024-01-29,Surabaya,30.2,68,Cerah
+2024-01-01,Jakarta,31.6,83,Berawan
+2024-02-16,Makassar,31.2,68,Berawan
+2024-01-26,Makassar,29.5,56,Cerah
+2024-02-07,Surabaya,28.9,60,Cerah
+2024-02-12,Jakarta,32.4,57,Cerah
+2024-03-28,Makassar,33.6,66,Cerah
+2024-01-28,Bandung,23.7,70,Berawan
+2024-02-18,Jakarta,33.7,74,Berawan
+2024-03-11,Jakarta,30.1,74,Hujan Ringan
+2024-02-25,Surabaya,31.3,74,Berawan
+2024-04-02,Makassar,36.6,61,Cerah
+2024-02-16,Denpasar,36.4,92,Hujan Ringan
+2024-02-07,Denpasar,30.8,75,Berawan
+2024-02-01,Surabaya,32.5,70,Cerah
+2024-03-27,Jakarta,31.0,83,Berawan
+2024-03-28,Surabaya,31.6,58,Cerah
+2024-03-07,Jakarta,31.8,82,Hujan Ringan
+2024-04-05,Surabaya,31.5,73,Hujan Ringan
+2024-02-06,Medan,30.9,62,Cerah
+2024-01-07,Bandung,26.9,88,Hujan Lebat
+2024-01-19,Makassar,28.2,90,Hujan Lebat
+2024-01-20,Makassar,33.5,67,Cerah
+2024-01-20,Medan,28.9,90,Hujan Ringan
+2024-02-22,Bandung,24.0,81,Hujan Ringan
+2024-03-14,Jakarta,32.1,73,Berawan
+2024-03-21,Jakarta,32.1,55,Cerah
+2024-01-22,Jakarta,28.9,74,Berawan
+2024-03-10,Surabaya,28.2,78,Berawan
+2024-03-16,Jakarta,32.0,82,Berawan
+2024-02-22,Jakarta,27.8,60,Cerah
+2024-02-23,Bandung,22.6,83,Berawan
+2024-01-29,Bandung,19.7,75,Berawan
+2024-02-28,Jakarta,32.6,55,Cerah
+2024-01-22,Denpasar,29.8,80,Berawan
+2024-03-23,Medan,30.3,74,Berawan
+2024-04-07,Makassar,30.5,95,Hujan Ringan
+2024-01-01,Jakarta,35.5,72,Berawan
+2024-01-03,Surabaya,30.9,66,Berawan
+2024-03-01,Jakarta,32.8,83,Berawan
+2024-03-02,Medan,34.1,79,Hujan Ringan
+2024-03-12,Denpasar,31.4,56,Cerah
+2024-01-26,Bandung,25.5,83,Berawan
+2024-01-07,Makassar,32.4,70,Berawan
+2024-03-22,Makassar,34.2,45,Cerah
+2024-01-31,Denpasar,33.3,52,Cerah
+2024-02-06,Surabaya,26.4,85,Berawan
+2024-01-04,Jakarta,30.2,83,Berawan
+2024-02-11,Makassar,31.1,82,Berawan
+2024-01-30,Bandung,25.1,80,Berawan
+2024-01-29,Denpasar,30.5,87,Hujan Ringan
+2024-01-16,Jakarta,30.6,87,Hujan Ringan
+2024-03-05,Makassar,30.7,70,Cerah
+2024-03-08,Denpasar,32.8,89,Hujan Ringan
+2024-03-19,Makassar,27.6,60,Cerah
+2024-02-28,Medan,31.2,64,Berawan
+2024-03-28,Denpasar,36.1,66,Cerah
+2024-01-04,Medan,33.8,89,Hujan Ringan
+2024-04-07,Bandung,22.5,81,Hujan Ringan
+2024-01-05,Denpasar,34.3,67,Cerah
+2024-02-01,Surabaya,36.0,66,Cerah
+2024-03-13,Jakarta,27.0,64,Cerah
+2024-01-09,Makassar,31.4,71,Hujan Ringan
+2024-02-28,Surabaya,29.6,64,Cerah
+2024-01-05,Surabaya,31.6,66,Berawan
+2024-01-28,Makassar,24.5,64,Cerah
+2024-03-07,Bandung,26.8,72,Berawan
+2024-02-02,Makassar,32.0,76,Berawan
+2024-02-28,Jakarta,32.3,80,Hujan Ringan
+2024-02-22,Jakarta,33.5,88,Hujan Lebat
+2024-02-14,Makassar,31.2,74,Berawan
+2024-02-08,Denpasar,32.2,69,Berawan
+2024-01-12,Makassar,31.9,73,Berawan
+2024-02-29,Bandung,22.5,76,Berawan
+2024-04-05,Jakarta,30.8,84,Berawan
+2024-04-02,Makassar,30.4,77,Hujan Ringan
+2024-03-31,Medan,32.5,66,Cerah
+2024-03-05,Denpasar,30.3,92,Hujan Lebat
+2024-03-16,Medan,31.2,52,Cerah
+2024-03-27,Bandung,19.2,78,Hujan Ringan
+2024-04-08,Jakarta,29.0,71,Hujan Ringan
+2024-03-15,Makassar,33.7,86,Hujan Ringan
+2024-02-25,Jakarta,32.8,72,Berawan
+2024-03-24,Surabaya,28.4,66,Berawan
+2024-02-27,Jakarta,31.0,76,Berawan
+2024-01-25,Jakarta,32.5,90,Hujan Ringan
+2024-03-12,Surabaya,30.7,68,Cerah
+2024-02-15,Surabaya,30.8,73,Hujan Ringan
+2024-02-22,Medan,31.2,59,Cerah
+2024-03-24,Jakarta,28.8,69,Cerah
+2024-01-02,Denpasar,30.2,82,Berawan
+2024-01-18,Makassar,29.6,89,Hujan Lebat
+2024-02-01,Denpasar,33.9,80,Hujan Ringan
+2024-01-08,Jakarta,33.4,81,Berawan
+2024-02-15,Medan,31.5,61,Cerah
+2024-02-02,Medan,31.1,73,Berawan
+2024-04-06,Bandung,22.9,76,Berawan
+2024-01-26,Medan,29.5,70,Cerah
+2024-01-15,Denpasar,30.5,68,Cerah
+2024-03-01,Surabaya,35.1,76,Hujan Ringan
+2024-04-01,Bandung,22.1,90,Hujan Lebat
+2024-03-24,Surabaya,35.8,84,Hujan Ringan
+2024-02-10,Surabaya,31.1,60,Cerah
+2024-03-27,Medan,30.9,94,Hujan Lebat
+2024-02-24,Surabaya,34.8,70,Berawan
+2024-02-24,Makassar,32.5,53,Cerah
+2024-03-14,Medan,28.8,68,Cerah
+2024-01-07,Jakarta,33.7,71,Hujan Ringan
+2024-01-24,Makassar,27.8,63,Cerah
+2024-02-29,Medan,28.4,93,Hujan Lebat
+2024-03-06,Medan,34.1,77,Berawan
+2024-02-27,Surabaya,34.5,86,Hujan Lebat
+2024-01-26,Surabaya,32.5,75,Berawan
+2024-01-14,Medan,31.4,84,Berawan
+2024-01-14,Medan,27.0,75,Berawan
+2024-01-17,Denpasar,32.2,72,Berawan
+2024-01-05,Makassar,33.7,65,Cerah
+2024-01-23,Makassar,28.4,70,Cerah
+2024-03-20,Denpasar,27.3,75,Hujan Ringan
+2024-01-05,Jakarta,32.8,59,Cerah
+2024-03-24,Denpasar,34.3,56,Cerah
+2024-02-06,Medan,32.9,82,Berawan
+2024-03-01,Denpasar,30.9,68,Cerah
+2024-02-04,Jakarta,33.0,72,Berawan
+2024-02-20,Jakarta,33.3,76,Berawan
+2024-02-19,Surabaya,32.4,52,Cerah
+2024-02-14,Denpasar,30.0,78,Berawan
+2024-04-05,Makassar,33.1,60,Berawan
+2024-03-14,Surabaya,31.9,74,Hujan Ringan
+2024-03-12,Surabaya,32.7,74,Hujan Ringan
+2024-03-30,Makassar,29.5,68,Cerah
+2024-02-02,Jakarta,33.5,70,Cerah
+2024-01-31,Makassar,32.6,76,Berawan
+2024-01-04,Denpasar,33.6,78,Hujan Ringan
+2024-01-23,Jakarta,34.1,70,Cerah
+2024-03-11,Denpasar,28.9,56,Cerah
+2024-04-02,Medan,28.4,69,Cerah
+2024-03-30,Medan,29.1,76,Berawan
+2024-02-15,Bandung,31.4,82,Hujan Ringan
+2024-03-10,Bandung,19.4,83,Berawan
+2024-02-17,Surabaya,34.7,76,Hujan Ringan
+2024-01-21,Surabaya,33.0,75,Berawan
+2024-02-20,Surabaya,30.0,70,Cerah
+2024-02-21,Makassar,32.5,75,Berawan
+2024-02-05,Bandung,21.7,94,Hujan Lebat
+2024-03-29,Bandung,20.9,82,Hujan Ringan
+2024-01-31,Makassar,30.3,76,Berawan
+2024-02-25,Bandung,23.5,86,Hujan Lebat
+2024-02-13,Jakarta,31.8,68,Berawan
+2024-01-21,Denpasar,30.9,77,Berawan
+2024-03-28,Bandung,26.4,79,Hujan Ringan
+2024-01-26,Jakarta,29.8,62,Cerah
+2024-02-29,Medan,33.6,78,Hujan Ringan
+2024-04-06,Bandung,20.6,79,Berawan
+2024-04-07,Medan,36.4,54,Cerah
+2024-01-15,Makassar,30.1,66,Cerah
+2024-03-18,Jakarta,30.4,74,Berawan
+2024-01-07,Surabaya,29.9,89,Hujan Ringan
+2024-03-15,Jakarta,32.1,67,Cerah
+2024-02-05,Makassar,30.3,62,Cerah
+2024-03-08,Jakarta,34.0,70,Cerah
+2024-01-27,Medan,28.8,81,Berawan
+2024-02-13,Surabaya,29.2,60,Cerah
+2024-01-02,Medan,27.6,66,Cerah
+2024-02-05,Bandung,23.8,85,Hujan Ringan
+2024-03-02,Bandung,26.6,79,Berawan
+2024-01-08,Medan,30.4,58,Cerah
+2024-03-24,Makassar,31.6,80,Hujan Ringan
+2024-03-24,Makassar,30.0,75,Hujan Ringan
+2024-01-16,Jakarta,29.0,73,Berawan
+2024-04-06,Medan,30.1,61,Cerah
+2024-03-31,Bandung,23.7,69,Berawan
+2024-01-23,Denpasar,32.4,67,Cerah
+2024-01-12,Medan,30.6,84,Hujan Ringan
+2024-03-18,Denpasar,32.6,78,Berawan
+2024-01-15,Jakarta,29.1,69,Cerah
+2024-03-18,Bandung,23.6,83,Hujan Ringan
+2024-02-23,Jakarta,33.3,57,Cerah
+2024-02-21,Denpasar,26.4,73,Berawan
+2024-04-07,Makassar,32.5,73,Berawan
+2024-01-31,Makassar,25.7,75,Berawan
+2024-02-01,Denpasar,32.6,60,Cerah
+2024-01-31,Surabaya,30.1,72,Hujan Ringan
+2024-01-31,Makassar,30.4,68,Cerah
+2024-01-07,Denpasar,30.7,74,Berawan
+2024-02-21,Jakarta,32.5,62,Berawan
+2024-03-03,Bandung,22.4,92,Hujan Lebat
+2024-01-07,Surabaya,27.6,99,Hujan Ringan
+2024-03-26,Makassar,31.0,62,Cerah
+2024-01-10,Makassar,29.5,78,Berawan
+2024-03-25,Makassar,32.3,83,Berawan
+2024-02-14,Makassar,31.3,68,Cerah
+2024-03-03,Surabaya,28.0,72,Berawan
+2024-03-08,Denpasar,30.7,78,Berawan
+2024-04-02,Surabaya,29.8,50,Cerah
+2024-03-04,Makassar,30.2,83,Berawan
+2024-02-17,Medan,32.9,68,Cerah
+2024-01-21,Medan,31.5,86,Hujan Ringan
+2024-03-12,Denpasar,32.2,70,Cerah
+2024-03-23,Makassar,30.3,72,Berawan
+2024-01-01,Surabaya,29.9,85,Berawan
+2024-02-21,Surabaya,32.9,84,Berawan
+2024-02-27,Surabaya,32.1,65,Cerah
+2024-02-07,Bandung,23.6,75,Hujan Ringan
+2024-03-13,Jakarta,29.0,67,Cerah
+2024-03-08,Denpasar,32.8,85,Berawan
+2024-01-10,Denpasar,30.2,82,Hujan Ringan
+2024-01-13,Denpasar,34.6,78,Hujan Ringan
+2024-04-07,Medan,30.8,64,Berawan
+2024-01-25,Jakarta,33.2,51,Cerah
+2024-01-22,Bandung,24.3,80,Berawan
+2024-02-15,Surabaya,29.1,84,Hujan Ringan
+2024-02-16,Medan,33.2,64,Cerah
+2024-01-07,Denpasar,33.7,65,Cerah
+2024-01-29,Medan,30.4,76,Berawan
+2024-01-27,Medan,31.5,78,Berawan
+2024-03-17,Medan,34.5,68,Cerah
+2024-03-03,Surabaya,31.8,64,Berawan
+2024-01-08,Makassar,31.0,72,Berawan
+2024-01-03,Makassar,34.1,68,Cerah
+2024-01-21,Bandung,25.3,93,Hujan Ringan
+2024-01-13,Jakarta,34.8,99,Hujan Lebat
+2024-02-23,Bandung,25.6,88,Hujan Lebat
+2024-04-04,Surabaya,32.9,69,Berawan
+2024-01-04,Medan,32.7,76,Berawan
+2024-03-25,Makassar,30.7,61,Cerah
+2024-04-02,Medan,30.4,74,Berawan
+2024-01-04,Medan,31.5,66,Cerah
+2024-01-31,Surabaya,29.5,76,Berawan
+2024-01-30,Medan,31.7,86,Hujan Ringan
+2024-02-24,Denpasar,29.7,80,Berawan
+2024-04-01,Jakarta,31.9,78,Berawan
+2024-01-20,Medan,30.8,75,Berawan
+2024-03-15,Denpasar,32.1,59,Berawan
+2024-03-17,Surabaya,32.9,89,Hujan Ringan
+2024-03-21,Denpasar,30.3,59,Cerah
+2024-02-18,Medan,32.9,71,Hujan Ringan
+2024-01-04,Bandung,23.7,83,Berawan
+2024-02-23,Jakarta,30.6,69,Cerah
+2024-01-24,Medan,30.9,72,Berawan
+2024-01-30,Bandung,25.7,76,Hujan Ringan
+2024-04-04,Denpasar,34.5,70,Cerah
+2024-04-09,Makassar,26.7,81,Berawan
+2024-02-01,Bandung,24.1,82,Berawan
+2024-02-11,Makassar,32.5,78,Berawan
+2024-02-27,Makassar,29.8,79,Berawan
+2024-03-29,Surabaya,30.3,89,Hujan Ringan
+2024-02-02,Denpasar,29.5,73,Hujan Ringan
+2024-02-12,Bandung,23.9,79,Berawan
+2024-03-10,Denpasar,31.0,84,Berawan
+2024-02-26,Denpasar,30.6,93,Hujan Ringan
+2024-02-08,Makassar,30.1,73,Berawan
+2024-02-28,Medan,30.2,72,Hujan Ringan
+2024-01-20,Makassar,34.7,75,Hujan Ringan
+2024-03-19,Makassar,30.9,57,Berawan
+2024-03-03,Bandung,21.3,82,Berawan
+2024-04-06,Medan,34.0,68,Cerah
+2024-02-19,Jakarta,31.2,64,Cerah
+2024-03-14,Medan,31.0,65,Cerah
+2024-03-25,Makassar,33.6,59,Cerah
+2024-03-22,Denpasar,32.5,64,Cerah
+2024-01-03,Surabaya,36.6,74,Berawan
+2024-02-01,Makassar,29.6,77,Berawan
+2024-01-19,Denpasar,31.9,75,Berawan
+2024-03-03,Jakarta,29.4,72,Hujan Ringan
+2024-01-04,Bandung,21.3,84,Berawan
+2024-04-06,Surabaya,30.5,60,Berawan
+2024-04-02,Medan,32.5,70,Cerah
+2024-02-13,Medan,28.8,83,Berawan
+2024-01-03,Denpasar,31.6,83,Berawan
+2024-03-30,Medan,31.0,69,Cerah
+2024-02-20,Jakarta,34.7,69,Cerah
+2024-01-17,Denpasar,31.3,85,Hujan Ringan
+2024-02-02,Surabaya,32.2,65,Cerah
+2024-02-16,Medan,32.1,70,Cerah
+2024-01-04,Surabaya,30.8,77,Berawan
+2024-04-08,Makassar,30.5,87,Hujan Lebat
+2024-03-16,Medan,32.9,67,Cerah
+2024-04-06,Bandung,22.6,72,Berawan
+2024-04-09,Denpasar,29.6,69,Cerah
+2024-03-24,Denpasar,31.4,69,Cerah
+2024-03-27,Denpasar,32.3,66,Berawan
+2024-02-11,Surabaya,33.2,77,Hujan Ringan
+2024-03-03,Denpasar,35.6,82,Berawan
+2024-02-16,Surabaya,28.6,70,Cerah
+2024-02-09,Medan,28.1,78,Hujan Ringan
+2024-04-08,Makassar,33.0,64,Cerah
+2024-03-08,Surabaya,29.1,60,Berawan
+2024-03-02,Makassar,31.6,84,Berawan
+2024-03-07,Medan,34.9,72,Berawan
+2024-03-08,Jakarta,30.5,75,Hujan Ringan
+2024-02-16,Denpasar,30.7,64,Cerah
+2024-01-21,Denpasar,33.9,90,Hujan Lebat
+2024-02-24,Medan,29.6,73,Berawan
+2024-03-07,Makassar,32.3,74,Berawan
+2024-01-01,Jakarta,30.3,57,Berawan
+2024-01-17,Bandung,23.8,78,Hujan Ringan
+2024-03-05,Surabaya,28.7,47,Cerah
+2024-02-04,Denpasar,28.9,46,Cerah
+2024-02-18,Makassar,33.7,67,Cerah
+2024-02-23,Denpasar,31.2,79,Berawan
+2024-01-17,Jakarta,30.9,65,Cerah
+2024-02-08,Jakarta,35.3,72,Hujan Ringan
+2024-02-15,Makassar,30.8,61,Cerah
+2024-01-12,Makassar,29.1,83,Hujan Ringan
+2024-03-09,Medan,31.8,66,Cerah
+2024-03-08,Bandung,21.4,64,Cerah
+2024-01-28,Surabaya,33.3,74,Berawan
+2024-01-15,Surabaya,30.4,88,Hujan Lebat
+2024-03-06,Bandung,24.1,89,Hujan Ringan
+2024-03-13,Surabaya,33.4,75,Hujan Ringan
+2024-01-02,Surabaya,34.1,74,Hujan Ringan
+2024-03-21,Bandung,24.3,97,Hujan Ringan
+2024-03-19,Makassar,27.6,80,Hujan Ringan
+2024-02-07,Jakarta,32.4,81,Berawan
+2024-02-14,Surabaya,29.6,62,Cerah
+2024-04-07,Medan,29.6,51,Cerah
+2024-03-03,Jakarta,31.3,69,Cerah
+2024-02-25,Bandung,24.6,73,Berawan
+2024-03-05,Jakarta,31.2,77,Berawan
+2024-04-01,Bandung,24.6,92,Hujan Ringan
+2024-01-08,Makassar,29.0,67,Berawan
+2024-01-31,Jakarta,29.9,77,Berawan
+2024-03-07,Surabaya,31.3,77,Berawan
+2024-03-04,Denpasar,28.0,58,Cerah
+2024-01-15,Makassar,29.3,72,Hujan Ringan
+2024-02-11,Makassar,30.6,50,Cerah
+2024-03-13,Bandung,23.2,85,Berawan
+2024-03-08,Denpasar,31.5,76,Berawan
+2024-03-26,Makassar,32.8,68,Cerah
+2024-02-01,Bandung,21.3,86,Hujan Ringan
+2024-01-21,Medan,31.6,77,Berawan
+2024-03-03,Medan,31.2,61,Cerah
+2024-04-09,Surabaya,32.1,81,Berawan
+2024-01-19,Bandung,22.4,71,Berawan
+2024-02-05,Jakarta,34.8,88,Hujan Ringan
+2024-01-21,Medan,32.2,89,Hujan Ringan
+2024-02-10,Medan,31.3,61,Berawan
+2024-02-21,Medan,32.0,83,Berawan
+2024-03-15,Denpasar,32.8,65,Cerah
+2024-03-04,Surabaya,36.9,70,Berawan
+2024-03-31,Denpasar,33.9,69,Cerah
+2024-01-07,Medan,33.8,70,Berawan
+2024-03-03,Surabaya,31.2,83,Berawan
+2024-03-01,Denpasar,35.4,70,Cerah
+2024-01-10,Denpasar,30.7,65,Cerah
+2024-02-10,Bandung,21.3,76,Hujan Ringan
+2024-01-19,Surabaya,31.3,69,Cerah
+2024-01-13,Makassar,33.1,80,Berawan
+2024-02-05,Jakarta,30.3,76,Berawan
+2024-02-15,Bandung,25.9,72,Berawan
+2024-04-08,Surabaya,35.7,80,Berawan
+2024-02-14,Bandung,23.6,86,Hujan Ringan
+2024-02-03,Jakarta,32.8,82,Berawan
+2024-03-30,Bandung,19.5,75,Berawan
+2024-01-08,Surabaya,29.9,68,Cerah
+2024-04-02,Denpasar,33.8,75,Berawan
+2024-02-22,Denpasar,34.5,68,Cerah
+2024-03-14,Denpasar,35.1,85,Berawan
+2024-01-14,Bandung,19.6,80,Berawan
+2024-01-30,Denpasar,29.2,73,Hujan Ringan
+2024-01-12,Bandung,18.9,81,Berawan
+2024-03-15,Bandung,21.9,69,Cerah
+2024-04-02,Jakarta,30.8,74,Hujan Ringan
+2024-01-06,Jakarta,33.2,64,Cerah
+2024-03-05,Surabaya,31.9,62,Berawan
+2024-04-09,Medan,27.7,61,Berawan
+2024-02-06,Surabaya,33.0,74,Hujan Ringan
+2024-02-16,Bandung,24.8,75,Berawan
+2024-01-24,Jakarta,29.4,83,Berawan
+2024-03-23,Surabaya,30.6,74,Berawan
+2024-02-10,Medan,29.5,72,Berawan
+2024-03-11,Surabaya,30.6,87,Hujan Lebat
+2024-01-16,Bandung,25.8,79,Hujan Ringan
+2024-04-06,Denpasar,32.8,80,Berawan
+2024-03-28,Jakarta,31.8,69,Cerah
+2024-04-09,Jakarta,33.5,78,Hujan Ringan
+2024-02-13,Makassar,32.1,66,Cerah
+2024-01-24,Denpasar,32.5,81,Hujan Ringan
+2024-01-25,Surabaya,29.8,84,Hujan Ringan
+2024-01-24,Medan,32.7,76,Berawan
+2024-03-05,Bandung,26.1,76,Hujan Ringan
+2024-02-27,Medan,32.0,83,Berawan
+2024-02-03,Denpasar,31.0,60,Cerah
+2024-02-02,Jakarta,29.8,80,Berawan
+2024-01-16,Medan,35.3,80,Berawan
+2024-02-20,Medan,32.8,79,Berawan
+2024-02-28,Denpasar,30.7,71,Berawan
+2024-04-07,Bandung,27.7,81,Berawan
+2024-01-04,Bandung,24.8,82,Berawan
+2024-01-17,Jakarta,30.2,67,Cerah
+2024-01-25,Bandung,24.5,93,Hujan Ringan
+2024-03-12,Makassar,28.9,88,Hujan Lebat
+2024-03-05,Surabaya,32.8,70,Cerah
+2024-02-26,Medan,32.2,79,Berawan
+2024-01-05,Jakarta,28.4,72,Berawan
+2024-02-19,Jakarta,33.6,65,Cerah
+2024-01-21,Bandung,23.8,85,Hujan Ringan
+2024-03-22,Denpasar,28.9,74,Berawan
+2024-04-03,Surabaya,31.4,84,Hujan Ringan
+2024-02-02,Medan,26.7,78,Berawan
+2024-01-16,Jakarta,31.4,95,Hujan Ringan
+2024-03-30,Surabaya,28.5,74,Berawan
+2024-01-19,Bandung,22.2,77,Berawan
+2024-01-04,Denpasar,32.6,80,Berawan
+2024-02-12,Jakarta,32.4,73,Hujan Ringan
+2024-01-08,Makassar,30.0,83,Berawan
+2024-02-08,Surabaya,32.6,77,Berawan
+2024-03-14,Makassar,30.4,85,Berawan
+2024-03-25,Surabaya,30.1,62,Berawan
+2024-01-22,Surabaya,30.6,72,Berawan
+2024-02-14,Makassar,30.8,66,Cerah
+2024-02-03,Surabaya,30.2,86,Hujan Ringan
+2024-04-03,Makassar,27.8,83,Hujan Ringan
+2024-04-02,Medan,27.6,81,Berawan
+2024-01-01,Bandung,23.5,74,Berawan
+2024-01-05,Jakarta,30.7,79,Hujan Ringan
+2024-01-11,Makassar,27.6,89,Hujan Ringan
+2024-01-19,Surabaya,31.1,61,Berawan
+2024-02-09,Bandung,27.1,77,Hujan Ringan
+2024-01-15,Medan,28.7,75,Berawan
+2024-02-15,Surabaya,26.3,74,Hujan Ringan
+2024-02-05,Makassar,33.6,80,Berawan
+2024-02-03,Surabaya,31.7,83,Berawan
+2024-03-09,Makassar,33.4,50,Cerah
+2024-02-29,Makassar,30.1,73,Hujan Ringan
+2024-03-25,Denpasar,29.4,65,Cerah
+2024-04-01,Medan,33.7,63,Cerah
+2024-03-09,Jakarta,32.7,86,Hujan Lebat
+2024-01-25,Makassar,29.8,63,Cerah
+2024-02-16,Surabaya,30.3,87,Hujan Ringan
+2024-01-16,Jakarta,31.7,64,Cerah
+2024-02-03,Surabaya,32.3,87,Hujan Lebat
+2024-03-26,Bandung,25.1,69,Cerah
+2024-01-21,Jakarta,34.4,76,Hujan Ringan
+2024-02-05,Surabaya,31.4,77,Berawan
+2024-03-10,Surabaya,32.0,77,Hujan Ringan
+2024-02-26,Denpasar,33.2,66,Cerah
+2024-03-10,Makassar,32.4,80,Hujan Ringan
+2024-02-24,Makassar,27.7,77,Berawan
+2024-02-01,Medan,33.1,70,Cerah
+2024-02-04,Surabaya,31.4,77,Berawan
+2024-01-29,Surabaya,31.9,86,Hujan Lebat
+2024-03-05,Surabaya,31.1,53,Cerah
+2024-04-08,Denpasar,31.9,75,Berawan
+2024-01-23,Medan,33.4,67,Cerah
+2024-02-25,Denpasar,31.6,74,Berawan
+2024-04-06,Medan,27.9,77,Berawan
+2024-01-12,Surabaya,28.5,84,Hujan Ringan
+2024-03-09,Denpasar,30.4,55,Cerah
+2024-03-06,Makassar,30.5,60,Berawan
+2024-02-23,Medan,30.4,76,Hujan Ringan
+2024-04-02,Denpasar,30.9,67,Cerah
+2024-02-26,Bandung,23.4,79,Hujan Ringan
+2024-01-06,Bandung,24.5,82,Berawan
+2024-03-30,Bandung,20.1,84,Berawan
+2024-01-03,Surabaya,31.3,58,Cerah
+2024-01-24,Medan,31.9,73,Berawan
+2024-01-29,Surabaya,35.0,66,Cerah
+2024-03-06,Surabaya,33.9,83,Berawan
+2024-02-28,Jakarta,32.8,57,Berawan
+2024-03-23,Jakarta,31.1,75,Berawan
+2024-01-30,Bandung,21.3,95,Hujan Ringan
+2024-01-07,Medan,30.8,56,Berawan
+2024-03-13,Medan,30.7,77,Berawan
+2024-01-17,Denpasar,34.9,72,Berawan
+2024-03-25,Medan,31.2,81,Berawan
+2024-03-13,Makassar,32.0,57,Cerah
+2024-03-24,Bandung,25.0,72,Hujan Ringan
+2024-02-16,Medan,31.4,70,Cerah
+2024-02-17,Surabaya,31.0,79,Berawan
+2024-02-27,Denpasar,34.7,89,Hujan Ringan
+2024-03-22,Bandung,24.7,85,Hujan Ringan
+2024-02-15,Makassar,32.2,48,Cerah
+2024-01-08,Surabaya,31.1,66,Berawan
+2024-03-29,Denpasar,33.2,69,Berawan
+2024-01-09,Makassar,33.5,70,Cerah
+2024-02-09,Denpasar,35.5,65,Berawan
+2024-01-18,Medan,30.4,81,Berawan
+2024-03-17,Jakarta,31.6,53,Cerah
+2024-03-28,Denpasar,30.5,87,Hujan Lebat
+2024-02-07,Jakarta,31.6,62,Cerah
+2024-01-21,Medan,33.2,82,Hujan Ringan
+2024-02-04,Surabaya,31.3,80,Berawan
+2024-01-21,Jakarta,31.0,74,Hujan Ringan
+2024-02-24,Makassar,32.7,67,Cerah
+2024-02-18,Denpasar,32.9,73,Hujan Ringan
+2024-03-01,Makassar,33.6,51,Cerah
+2024-02-10,Denpasar,32.3,81,Hujan Ringan
+2024-01-30,Surabaya,35.6,61,Cerah
+2024-03-27,Makassar,32.6,63,Cerah
+2024-01-17,Makassar,32.7,77,Berawan
+2024-01-18,Medan,32.2,54,Cerah
+2024-02-01,Denpasar,30.9,77,Berawan
+2024-02-05,Medan,31.0,69,Cerah
+2024-01-19,Denpasar,33.9,65,Cerah
+2024-01-09,Surabaya,28.3,54,Cerah
+2024-02-09,Bandung,21.3,86,Hujan Ringan
+2024-01-13,Surabaya,32.2,82,Berawan
+2024-02-17,Makassar,29.6,75,Berawan
+2024-01-17,Bandung,22.3,71,Hujan Ringan
+2024-02-18,Bandung,26.1,84,Berawan
+2024-03-19,Surabaya,31.0,76,Hujan Ringan
+2024-02-23,Jakarta,32.1,90,Hujan Lebat
+2024-03-26,Jakarta,31.4,85,Berawan
+2024-03-11,Jakarta,28.9,70,Berawan
+2024-01-15,Makassar,29.9,72,Berawan
+2024-02-20,Bandung,21.3,76,Berawan
+2024-03-16,Denpasar,32.6,65,Berawan
+2024-02-26,Medan,31.4,76,Berawan
+2024-03-19,Denpasar,31.4,67,Cerah
+2024-03-04,Denpasar,34.6,81,Berawan
+2024-03-15,Medan,34.1,82,Berawan
+2024-01-02,Surabaya,31.1,94,Hujan Ringan
+2024-04-07,Medan,32.0,88,Hujan Ringan
+2024-02-27,Jakarta,32.9,80,Hujan Ringan
+2024-03-21,Bandung,21.5,94,Hujan Lebat
+2024-01-06,Medan,32.2,75,Hujan Ringan
+2024-01-21,Surabaya,33.1,76,Berawan
+2024-03-02,Denpasar,31.3,60,Cerah
+2024-01-16,Denpasar,30.2,62,Cerah
+2024-01-02,Surabaya,33.2,71,Berawan
+2024-03-30,Jakarta,29.7,88,Hujan Lebat
+2024-03-02,Bandung,21.9,88,Hujan Lebat
+2024-02-07,Surabaya,29.9,80,Berawan
+2024-01-21,Medan,29.5,80,Berawan
+2024-03-14,Denpasar,33.6,78,Hujan Ringan
+2024-03-28,Denpasar,32.0,67,Cerah
+2024-01-08,Medan,32.2,57,Cerah
+2024-02-17,Bandung,25.2,79,Hujan Ringan
+2024-03-11,Makassar,30.6,79,Berawan
+2024-02-17,Denpasar,36.4,61,Cerah
+2024-02-04,Makassar,31.4,71,Hujan Ringan
+2024-01-30,Surabaya,33.7,59,Cerah
+2024-01-31,Denpasar,32.7,86,Hujan Lebat
+2024-02-27,Surabaya,35.5,83,Hujan Ringan
+2024-03-23,Bandung,23.9,82,Hujan Ringan
+2024-03-06,Surabaya,29.9,88,Hujan Ringan
+2024-03-27,Surabaya,32.2,51,Cerah
+2024-01-21,Surabaya,32.8,81,Berawan
+2024-02-01,Surabaya,35.4,67,Cerah
+2024-03-27,Bandung,24.0,87,Hujan Ringan
+2024-03-29,Surabaya,28.9,81,Berawan
+2024-03-05,Medan,32.6,64,Cerah
+2024-04-02,Jakarta,31.1,60,Cerah
+2024-04-03,Medan,32.0,80,Hujan Ringan
+2024-03-17,Makassar,33.9,75,Berawan
+2024-01-26,Denpasar,30.7,75,Berawan
+2024-01-08,Medan,31.9,80,Berawan
+2024-03-02,Denpasar,31.6,98,Hujan Lebat
+2024-02-22,Surabaya,32.0,74,Berawan
+2024-03-24,Surabaya,32.9,62,Cerah
+2024-01-08,Jakarta,30.8,64,Cerah
+2024-02-18,Medan,33.0,76,Berawan
+2024-01-11,Denpasar,30.7,86,Hujan Ringan
+2024-01-20,Surabaya,31.3,65,Cerah
+2024-02-09,Makassar,30.7,68,Cerah
+2024-04-03,Makassar,28.7,60,Cerah
+2024-01-26,Medan,30.7,76,Berawan
+2024-01-02,Denpasar,32.6,81,Berawan
+2024-03-09,Denpasar,34.5,71,Berawan
+2024-02-13,Surabaya,31.3,55,Cerah
+2024-02-26,Bandung,21.0,89,Hujan Ringan
+2024-01-13,Denpasar,32.8,52,Berawan
+2024-01-15,Jakarta,31.8,62,Cerah
+2024-03-30,Medan,31.4,58,Cerah
+2024-02-13,Medan,33.7,85,Berawan
+2024-01-16,Bandung,22.2,66,Cerah
+2024-01-13,Denpasar,35.0,73,Berawan
+2024-04-04,Denpasar,32.3,72,Hujan Ringan
+2024-02-01,Makassar,30.2,68,Berawan
+2024-04-03,Makassar,31.4,84,Berawan
+2024-04-05,Denpasar,29.3,75,Berawan
+2024-01-10,Surabaya,30.1,70,Cerah
+2024-03-09,Makassar,32.5,63,Cerah
+2024-03-25,Denpasar,30.8,78,Berawan
+2024-02-14,Makassar,32.1,76,Berawan
+2024-03-21,Makassar,31.2,61,Cerah
+2024-01-24,Jakarta,33.2,72,Berawan
+2024-03-12,Denpasar,30.2,65,Berawan
+2024-01-28,Makassar,30.3,77,Berawan
+2024-01-17,Bandung,24.4,83,Berawan
+2024-04-03,Denpasar,35.5,70,Cerah
+2024-02-09,Jakarta,32.9,61,Cerah
+2024-04-04,Medan,32.1,63,Cerah
+2024-02-21,Jakarta,32.8,80,Berawan
+2024-04-06,Medan,31.8,73,Berawan
+2024-03-02,Surabaya,33.3,88,Hujan Ringan
+2024-01-11,Surabaya,35.3,81,Berawan
+2024-04-02,Bandung,24.0,83,Hujan Ringan
+2024-02-19,Denpasar,33.7,64,Cerah
+2024-02-18,Jakarta,30.1,60,Cerah
+2024-03-06,Surabaya,32.5,74,Berawan
+2024-01-06,Jakarta,29.2,84,Hujan Ringan
+2024-03-08,Makassar,32.9,70,Cerah
+2024-02-21,Makassar,32.4,92,Hujan Ringan
+2024-03-23,Medan,29.3,60,Cerah
+2024-01-28,Surabaya,29.9,60,Berawan
+2024-03-12,Medan,31.3,80,Berawan
+2024-01-09,Surabaya,33.1,63,Cerah
+2024-01-25,Denpasar,32.0,80,Berawan
+2024-03-07,Surabaya,30.2,69,Berawan
+2024-01-15,Jakarta,33.7,71,Berawan
+2024-03-27,Bandung,22.8,86,Hujan Lebat
+2024-03-29,Jakarta,31.8,73,Berawan
+2024-02-18,Medan,30.7,77,Berawan
+2024-02-07,Medan,32.1,74,Berawan
+2024-01-25,Denpasar,33.3,74,Berawan
+2024-03-31,Medan,35.3,81,Hujan Ringan
+2024-01-10,Bandung,24.7,86,Hujan Ringan
+2024-02-22,Makassar,29.4,72,Hujan Ringan
+2024-03-09,Makassar,31.8,66,Cerah
+2024-02-20,Medan,32.3,93,Hujan Ringan
+2024-03-17,Bandung,19.1,86,Hujan Lebat
+2024-04-01,Denpasar,31.4,77,Berawan
+2024-03-29,Medan,30.7,91,Hujan Ringan
+2024-03-05,Jakarta,32.3,65,Berawan
+2024-01-22,Jakarta,27.2,69,Cerah
+2024-01-17,Jakarta,29.1,74,Hujan Ringan
+2024-02-14,Denpasar,30.6,78,Berawan
+2024-01-15,Makassar,30.7,84,Berawan
+2024-02-04,Makassar,31.2,65,Cerah
+2024-03-30,Makassar,29.2,69,Cerah
+2024-01-04,Bandung,27.8,85,Berawan
+2024-01-15,Medan,32.7,74,Berawan
+2024-02-04,Jakarta,32.9,52,Cerah
+2024-01-24,Medan,28.4,86,Hujan Ringan
+2024-04-08,Jakarta,29.4,55,Cerah
+2024-02-06,Denpasar,31.2,66,Cerah
+2024-03-20,Surabaya,29.1,70,Berawan
+2024-01-08,Surabaya,35.0,73,Hujan Ringan
+2024-03-06,Makassar,32.0,79,Berawan
+2024-01-30,Surabaya,31.9,89,Hujan Lebat
+2024-02-08,Makassar,33.1,78,Berawan
+2024-04-03,Makassar,33.9,74,Berawan
+2024-04-02,Medan,31.1,76,Hujan Ringan
+2024-04-05,Bandung,24.7,79,Berawan
+2024-03-03,Surabaya,34.5,66,Cerah
+2024-03-10,Denpasar,29.4,71,Berawan
+2024-03-17,Surabaya,34.8,83,Berawan
+2024-03-13,Jakarta,32.4,61,Cerah
+2024-03-27,Medan,29.2,70,Cerah
+2024-03-14,Jakarta,29.8,70,Cerah
+2024-04-08,Denpasar,29.2,76,Berawan
+2024-03-25,Surabaya,30.8,67,Berawan
+2024-02-11,Medan,31.2,72,Hujan Ringan
+2024-03-30,Surabaya,29.3,64,Cerah
+2024-03-17,Medan,31.3,73,Berawan
+2024-01-27,Surabaya,34.6,77,Berawan
+2024-03-03,Denpasar,31.3,66,Berawan
+2024-03-03,Jakarta,30.1,65,Berawan
+2024-03-30,Makassar,31.3,64,Cerah
+2024-01-30,Medan,29.6,60,Cerah
+2024-02-06,Medan,31.3,90,Hujan Lebat
+2024-01-19,Medan,30.2,66,Cerah
+2024-01-29,Medan,30.6,66,Cerah
+2024-04-05,Denpasar,30.7,74,Berawan
+2024-01-19,Makassar,29.6,79,Berawan
+2024-04-09,Makassar,29.5,65,Cerah
+2024-03-19,Denpasar,32.5,82,Hujan Ringan
+2024-01-05,Bandung,24.7,76,Berawan
+2024-03-08,Bandung,22.6,80,Hujan Ringan
+2024-04-04,Bandung,25.0,90,Hujan Ringan
+2024-01-31,Makassar,30.9,54,Cerah
+2024-01-10,Medan,27.8,65,Cerah
+2024-02-08,Denpasar,31.9,77,Hujan Ringan
+2024-01-04,Makassar,32.6,97,Hujan Ringan
+2024-04-06,Jakarta,28.7,72,Berawan
+2024-03-11,Makassar,32.7,69,Cerah
+2024-03-15,Bandung,22.4,89,Hujan Lebat
+2024-02-23,Jakarta,34.7,82,Berawan
+2024-03-24,Denpasar,33.3,65,Cerah
+2024-02-11,Medan,32.7,59,Cerah
+2024-02-16,Bandung,26.2,84,Berawan
+2024-03-20,Jakarta,30.9,51,Berawan
+2024-03-16,Jakarta,31.7,69,Berawan
+2024-02-08,Medan,29.4,92,Hujan Ringan
+2024-01-27,Denpasar,33.8,78,Berawan
+2024-01-28,Medan,32.9,51,Berawan
+2024-02-03,Denpasar,31.2,80,Berawan
+2024-02-14,Medan,32.0,54,Cerah
+2024-02-25,Medan,32.8,83,Berawan
+2024-02-07,Bandung,21.3,76,Berawan
+2024-03-18,Surabaya,30.4,72,Berawan
+2024-03-27,Jakarta,27.6,80,Berawan
+2024-01-17,Medan,30.0,75,Berawan
+2024-03-18,Surabaya,29.7,86,Hujan Ringan
+2024-03-02,Denpasar,33.8,74,Hujan Ringan
+2024-01-05,Surabaya,29.8,73,Berawan
+2024-03-06,Denpasar,28.4,88,Hujan Ringan
+2024-03-24,Jakarta,29.9,71,Berawan
+2024-02-15,Medan,27.6,69,Cerah
+2024-03-21,Jakarta,33.8,72,Berawan
+2024-02-02,Surabaya,29.7,76,Berawan
+2024-03-24,Medan,33.6,81,Hujan Ringan
+2024-01-19,Denpasar,33.0,87,Hujan Ringan
+2024-02-26,Medan,30.6,55,Cerah
+2024-02-12,Denpasar,30.9,70,Berawan
+2024-01-26,Surabaya,29.4,63,Cerah
+2024-02-08,Surabaya,31.5,77,Berawan
+2024-01-26,Surabaya,32.3,71,Berawan
+2024-03-04,Surabaya,34.6,56,Cerah
+2024-03-05,Medan,31.6,77,Berawan
+2024-03-01,Surabaya,30.1,84,Hujan Ringan
+2024-02-15,Makassar,32.1,74,Hujan Ringan
+2024-02-23,Makassar,33.9,61,Cerah
+2024-01-07,Jakarta,27.0,61,Berawan
+2024-01-23,Makassar,33.0,55,Cerah
+2024-02-23,Jakarta,29.9,72,Berawan
+2024-01-30,Surabaya,29.5,72,Berawan
+2024-04-02,Medan,31.2,83,Hujan Ringan
+2024-02-16,Denpasar,29.9,95,Hujan Ringan
+2024-01-07,Jakarta,32.3,74,Berawan
+2024-02-26,Bandung,27.1,96,Hujan Ringan
+2024-02-02,Medan,30.9,63,Cerah
+2024-01-04,Jakarta,35.8,84,Hujan Ringan
+2024-01-08,Surabaya,33.7,67,Cerah
+2024-02-12,Surabaya,33.2,74,Berawan
+2024-01-29,Medan,31.4,72,Berawan
+2024-02-06,Medan,32.5,87,Hujan Lebat
+2024-01-22,Denpasar,36.0,68,Berawan
+2024-03-30,Bandung,24.0,81,Berawan
+2024-03-30,Bandung,24.6,61,Cerah
+2024-01-30,Makassar,31.1,93,Hujan Lebat
+2024-04-03,Denpasar,30.2,68,Cerah
+2024-02-13,Medan,31.8,67,Berawan
+2024-02-07,Medan,30.9,58,Cerah
+2024-01-11,Bandung,24.3,91,Hujan Ringan
+2024-03-28,Makassar,34.0,75,Berawan
+2024-02-26,Jakarta,31.3,74,Berawan
+2024-02-18,Surabaya,28.9,75,Berawan
+2024-02-11,Makassar,33.1,67,Cerah
+2024-01-15,Bandung,24.6,76,Berawan
+2024-01-06,Surabaya,33.6,69,Berawan
+2024-01-08,Surabaya,29.8,66,Cerah
+2024-03-25,Surabaya,31.6,68,Cerah
+2024-01-09,Surabaya,32.6,73,Berawan
+2024-04-07,Denpasar,31.9,59,Cerah
+2024-01-10,Jakarta,30.6,70,Cerah
+2024-02-29,Jakarta,31.6,62,Cerah
+2024-01-23,Jakarta,33.5,51,Cerah
+2024-03-03,Medan,33.8,86,Hujan Ringan
+2024-04-05,Jakarta,31.7,78,Hujan Ringan
+2024-02-14,Denpasar,30.8,70,Cerah
+2024-03-06,Bandung,21.2,83,Berawan
+2024-03-17,Medan,29.7,59,Cerah
+2024-02-22,Surabaya,31.7,73,Hujan Ringan
+2024-03-05,Jakarta,32.1,72,Berawan
+2024-01-19,Denpasar,33.9,64,Cerah
+2024-02-02,Surabaya,32.4,77,Hujan Ringan
+2024-02-06,Jakarta,29.9,77,Berawan
+2024-03-17,Denpasar,33.8,92,Hujan Ringan
+2024-02-04,Medan,29.5,70,Cerah
+2024-03-25,Denpasar,29.4,71,Berawan
+2024-01-23,Denpasar,33.6,63,Cerah
+2024-03-17,Denpasar,34.5,91,Hujan Ringan
+2024-01-23,Jakarta,29.4,65,Cerah
+2024-02-11,Surabaya,30.3,72,Berawan
+2024-01-09,Surabaya,30.4,88,Hujan Ringan
+2024-03-17,Makassar,27.8,66,Berawan
+2024-01-17,Medan,29.6,78,Berawan
+2024-01-06,Jakarta,31.1,76,Berawan
+2024-01-14,Surabaya,30.2,74,Berawan
+2024-03-28,Jakarta,33.4,73,Berawan
+2024-02-18,Makassar,32.0,83,Hujan Ringan
+2024-04-02,Bandung,22.8,92,Hujan Lebat
+2024-03-13,Surabaya,29.0,75,Berawan
+2024-02-24,Medan,29.3,52,Cerah
+2024-03-10,Makassar,30.0,75,Berawan
+2024-01-10,Bandung,19.8,82,Berawan
+2024-03-13,Medan,28.3,87,Hujan Lebat
+2024-01-09,Makassar,29.4,63,Cerah
+2024-02-21,Jakarta,33.5,85,Hujan Ringan
+2024-04-02,Bandung,21.1,90,Hujan Lebat
+2024-01-09,Denpasar,30.7,59,Cerah
+2024-03-13,Medan,29.9,83,Berawan
+2024-01-23,Makassar,28.4,59,Berawan
+2024-01-31,Jakarta,31.3,77,Berawan
+2024-01-25,Bandung,24.8,94,Hujan Ringan
+2024-03-07,Denpasar,30.1,55,Cerah
+2024-03-23,Makassar,33.1,73,Hujan Ringan
+2024-03-08,Jakarta,30.2,83,Hujan Ringan
+2024-02-18,Denpasar,34.0,86,Hujan Ringan
+2024-03-29,Jakarta,31.0,77,Hujan Ringan
+2024-04-01,Bandung,22.6,100,Hujan Ringan
+2024-03-17,Makassar,32.1,77,Berawan
+2024-01-24,Denpasar,30.7,71,Berawan
+2024-01-26,Surabaya,29.9,62,Cerah
+2024-02-07,Surabaya,31.5,71,Berawan
+2024-02-25,Denpasar,30.7,79,Hujan Ringan
+2024-01-01,Jakarta,30.0,74,Berawan
+2024-01-03,Surabaya,31.1,91,Hujan Lebat
+2024-03-27,Medan,32.2,69,Cerah
+2024-03-03,Bandung,23.7,96,Hujan Lebat
+2024-02-17,Surabaya,32.3,76,Hujan Ringan
+2024-04-08,Denpasar,32.4,82,Berawan
+2024-01-24,Jakarta,32.1,62,Cerah
+2024-03-19,Bandung,23.0,77,Hujan Ringan
+2024-03-02,Surabaya,31.2,76,Hujan Ringan
+2024-02-01,Makassar,31.9,56,Cerah
+2024-03-11,Bandung,23.5,90,Hujan Ringan
+2024-01-14,Denpasar,31.9,67,Cerah
+2024-03-24,Makassar,34.3,69,Cerah
+2024-02-12,Bandung,19.4,79,Hujan Ringan
+2024-02-08,Makassar,33.3,56,Berawan
+2024-03-09,Makassar,31.0,79,Berawan
+2024-03-09,Jakarta,32.9,100,Hujan Ringan
+2024-02-24,Bandung,25.6,89,Hujan Lebat
+2024-04-06,Jakarta,29.4,84,Berawan
+2024-02-12,Surabaya,33.2,83,Berawan
+2024-02-29,Medan,31.3,68,Berawan
+2024-02-12,Makassar,31.7,93,Hujan Lebat
+2024-01-30,Denpasar,31.1,88,Hujan Lebat
+2024-01-07,Bandung,21.5,88,Hujan Ringan
+2024-02-18,Denpasar,29.5,86,Hujan Ringan
+2024-02-11,Medan,32.8,67,Cerah
+2024-02-07,Surabaya,31.7,61,Cerah
+2024-03-03,Denpasar,29.7,52,Berawan
+2024-01-29,Denpasar,32.0,89,Hujan Lebat
+2024-01-18,Denpasar,29.4,62,Cerah
+2024-03-19,Jakarta,30.7,75,Berawan
+2024-02-26,Surabaya,32.5,68,Cerah
+2024-03-05,Makassar,31.1,75,Hujan Ringan
+2024-03-20,Bandung,22.6,82,Hujan Ringan
+2024-02-22,Medan,29.5,62,Cerah
+2024-03-18,Medan,29.1,74,Berawan
+2024-02-19,Bandung,23.6,66,Cerah
+2024-03-24,Jakarta,29.9,76,Berawan
+2024-01-18,Surabaya,30.3,67,Berawan
+2024-01-07,Makassar,33.3,83,Hujan Ringan
+2024-02-26,Surabaya,31.6,91,Hujan Lebat
+2024-03-20,Denpasar,30.2,84,Berawan
+2024-02-03,Makassar,34.6,48,Cerah
+2024-02-01,Bandung,24.7,83,Hujan Ringan
